@@ -53,15 +53,19 @@
         <li><a href="#actividades">Actividades</a></li>
         <li><a href="#horario">Horario</a></li>
         <li><a href="#material">Resúmenes</a></li>
+          <li class="dropdown ">
+              <a class="dropdown-toggle hvr-overline-reveal" data-toggle="dropdown" href="#">Histórico <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+
+                  <li><a href="http://pccm.umich.unam.mx/dm/">2016</a></li>
+              </ul>
+          </li>
         <li><a href="#organizadores"><span class="glyphicon glyphicon-plus "></span></a></li>
       </ul>
     </div>
   </div>
 </nav>
-<div class="jumbotron text-center">
-        <img class="img-responsive centrar" src="Imagenes/DegMat-01.png" alt="DMlogo" width="880" height="302"><br>
-        <h1 style="color:white">Del 9 al 11 de Febrero</h1>
-</div>
+<img src="Imagenes/background.jpg" width="100%" height="auto" class="img-responsive">
 	
 <!--    <img style="margin-top:25px; z-index:-1" class="img-responsive centrar" src="Imagenes/fondo-pagina-web.jpg" alt="DMlogo" width="100%">
     <div class="toop">
@@ -71,7 +75,7 @@
 	
 <!-- Container (About Section) -->
 <div id="descripcion" class="container-fluid">
-	<h2 style="color: #FF3300"  >Degustaciones Matemáticas</h2>
+	<h2>Degustaciones Matemáticas</h2>
 	<div class="row">
     	<div class="col-sm-8">
 		<h4 style="color: #303030;text-align: justify"> Consite de una <span style="color:#94014D"><b>serie de pláticas de matemáticas</b></span> dirigidas a alumnos de <span style="color:#94014D"><b>licenciatura</b></span> por parte de estudiantes y profesores del Posgrado Conjunto </h4>
@@ -85,7 +89,7 @@
 			</div>
 		</div>	
 		<div class="col-sm-4">
-      <img  class="img-responsive centrar img-circle" src="Imagenes/monita.jpg" alt="DMlogo" width="300" height="300">
+      <img  class="img-responsive centrar img-circle" src="Imagenes/monita.png" alt="DMlogo" width="300" height="300">
     </div>
 	 </div>
 </div>
@@ -195,17 +199,17 @@
         </tr>
         <tr>
             <td class="hhh" >10:30 </td><td class="wh" colspan="3">Café</td>
-        </tr>  
+        </tr>
         <tr>
             <td class="hhh" >10:50 </td><td><button type="button" class="btn btn-lg hora" data-toggle="modal" data-target="#myModalM3">Karley</button></td><td><button type="button" class="btn btn-lg hora" data-toggle="modal" data-target="#myModalX3">Israel</button></td><td><button type="button" class="btn btn-lg hora" data-toggle="modal" data-target="#myModalJ3">Alejandra</button></td>
         </tr>
         <tr>
             <td class="hhh" >11:20 </td><td><button type="button" class="btn btn-lg hora" data-toggle="modal" data-target="#myModalM4">Rubén</button></td><td><button type="button" class="btn btn-lg hora" data-toggle="modal" data-target="#myModalX4">Julio</button></td><td><button type="button" class="btn btn-lg hora" data-toggle="modal" data-target="#myModalJ4">Ana</button></td>
-        </tr> 
+        </tr>
         <tr>
             <td class="hhh" >11:50 </td><td><button type="button" class="btn btn-lg hora" data-toggle="modal" data-target="#myModalM5">Enrique</button></td><td><button type="button" class="btn btn-lg hora" data-toggle="modal" data-target="#myModalX5">Toño</button></td><td class="tdp" rowspan="2"><button type="button" class="btn btn-lg plenaria" data-toggle="modal" data-target="#myModalJ5">Fernando</button></td>
         </tr>
-    
+
         <tr>
             <td class="hhh" >12:20 </td><td class="wh" colspan="2">Descanso</td>
         </tr>
@@ -218,94 +222,45 @@
         <tr><td class="wh" style="border-top-color: white"></td></tr>
     </table>
 	</div>
-    
+
 <!-- Container (Material Section) -->
 <div id="material"  class="container-fluid text-center bg-grey">
   <h2>Resúmenes</h2><br>
 	<p>Haga click <a href="resumenesfondo.pdf">aquí</a> para ver los resúmenes de todas las pláticas</p>
   </div><br>
-    
+
 <!-- Container (Organizadores Section) -->
 <div class="container-fluid text-center" id="organizadores">
  <h2>Organizadores</h2>
 	<div class="row">
-    	<div class="col-sm-3 text-center">
+    	<div class="col-sm-4 text-center">
 			<img  class="img-responsive centrar img-circle" src="Imagenes/Tero.jpg" alt="Antonio Montero" width="70" height="70">
 			<p>José Antonio Montero Aguilar</p>
 			<p>(CCM-UNAM)</p>
 		</div>
-    	<div class="col-sm-3 text-center">
-			<img  class="img-responsive centrar img-circle" src="Imagenes/Bosco.jpg" alt="Juan Bosco" width="70" height="70">
-			<p>Juan Bosco Frías Medina</p>
-			<p>(IFM-UMSNH)</p>
-		</div>
-    	<div class="col-sm-3 text-center">
-			<img  class="img-responsive centrar img-circle" src="Imagenes/Naila.jpg" alt="Naila Angelina" width="70" height="70">
-			<p>Naila Angelina Centeno</p>
+
+    	<div class="col-sm-4 text-center">
+			<img  class="img-responsive centrar img-circle" src="Imagenes/angie.png" alt="Naila Angelina" width="70" height="70">
+			<p>Angélica Guadalupe Zamudio Camargo</p>
 			<p>(FCFM-UMSNH)</p>
 		</div>
-    	<div class="col-sm-3 text-center">
+    	<div class="col-sm-4 text-center">
 			<img  class="img-responsive centrar img-circle" src="Imagenes/Richi.jpg" alt="Ricardo Chávez" width="70" height="70">
 			<p>Ricardo Chávez Cáliz</p>
-			<p>(FCFM-UMSNH)</p>
-		</div>		
+			<p>(CCM-UNAM)</p>
+		</div>
 	</div>
 </div>
 
 <!-- Container (Contact Section) -->
-<div id="contacto" class="container-fluid bg-grey">
+<div ALIGN="center" id="contacto" class="container-fluid bg-grey">
   <h2 class="text-center">Contacto</h2>
-  <div class="row">
-    <div class="col-sm-5">
+  
       <p>Envíanos tus comentarios</p>
       <p><span class="glyphicon glyphicon-envelope"></span> degustaciones.mat@gmail.com</p>	   
     </div>
-    <div class="col-sm-7 slideanim">
-      <div class="row">
-        <div class="col-sm-6 form-group">
-			<?php 
-                            $action = "";
 
-                                if($_REQUEST['action'])
- 				    $action=$_REQUEST['action']; 
-				if ($action=="")    /* display the contact form */ 
-    			{ 
-    		?>  
-			<form  action="" method="POST" enctype="multipart/form-data">
-			<input type="hidden" name="action" value="submit"> 
-          	<input class="form-control" id="name" name="name" value="" placeholder="Nombre" type="text" required>
-        </div>
-        <div class="col-sm-6 form-group">
-          <input class="form-control" id="email" name="email" placeholder="Correo electrónico" type="email" required>
-        </div>
-      </div>
-      	<textarea class="form-control" id="comments" name="message" placeholder="Comentario" rows="5"></textarea><br>
-      <div class="row">
-        <div class="col-sm-12 form-group">
-          <input type="submit" value="Enviar"/> 
-		  </form>
-			
-    		<?php 
-    		}  
-			else                /* send the submitted data */ 
-			{ 
-				$name=$_REQUEST['name']; 
-				$email=$_REQUEST['email']; 
-				$message=$_REQUEST['message']; 
-				if (($name=="")||($email=="")||($message=="")) 
-        		{ 
-        			echo "Se requieren todos los campos, porfavor llene <a href=\"\"> en el forumlario</a>."; 
-        		} 
-				else{         
-					$from="De: $name<$email>\r\nReturn-path: $email"; 
-					$subject="Comentarios Degustaciones 2016"; 
-					mail("degustaciones.mat@gmail.com", $subject, $message, $from); 
-					echo "¡Mensaje enviado!"; 
-        		} 
-    		}   
-			?>
-        </div>
-      </div>	
+
     </div>
   </div>
 </div>
