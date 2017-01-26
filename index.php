@@ -77,6 +77,15 @@
 <div id="descripcion" class="container-fluid">
 	<h2>Degustaciones Matemáticas</h2>
 	<div class="row">
+	    <div class="panel panel-default">
+                <div class="panel-body">
+                    Fechas: 31 de enero, 1 y 2 de febrero 2017<br>
+		    Horario: 9:00 a 14:00 horas<br>
+		    Lugar: Audirorio de la Facultad de Ciencias Físico-Matemáticas Mat. Luis Manuel Rivera Gutierrez UMSNH.<br>
+                </div>
+            </div>
+	</div>
+	<div class="row">
     	<div class="col-sm-8">
 		<h4 style="color: #303030;text-align: justify"> Consite de una <span style="color:#94014D"><b>serie de pláticas de matemáticas</b></span> dirigidas a alumnos de <span style="color:#94014D"><b>licenciatura</b></span> por parte de estudiantes y profesores del Posgrado Conjunto </h4>
 			<div class="row">
