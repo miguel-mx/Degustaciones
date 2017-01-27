@@ -90,7 +90,6 @@ Horario:</strong> 9:00 a 14:00 horas.<br>
 	</div>
 	<div class="row">
     	<div class="col-sm-8">
-		<h4 style="color: #303030;text-align: justify"> Consiste de una <span style="color:#94014D"><b>serie de pláticas de matemáticas</b></span> dirigidas a alumnos de <span style="color:#94014D"><b>licenciatura</b></span> por parte de estudiantes y profesores del Posgrado Conjunto </h4>
 		<h4 style="color: #303030;text-align: justify"> Consite de una <span style="color:#774c98"><b>serie de pláticas de matemáticas</b></span> dirigidas a alumnos de <span style="color:#774c98"><b>licenciatura</b></span> por parte de estudiantes y profesores del Posgrado Conjunto </h4>
 			<div class="row">
     			<div class="col-sm-6">
