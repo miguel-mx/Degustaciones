@@ -91,6 +91,7 @@ Horario:</strong> 9:00 a 14:00 horas.<br>
 	<div class="row">
     	<div class="col-sm-8">
 		<h4 style="color: #303030;text-align: justify"> Consiste de una <span style="color:#94014D"><b>serie de pláticas de matemáticas</b></span> dirigidas a alumnos de <span style="color:#94014D"><b>licenciatura</b></span> por parte de estudiantes y profesores del Posgrado Conjunto </h4>
+		<h4 style="color: #303030;text-align: justify"> Consite de una <span style="color:#774c98"><b>serie de pláticas de matemáticas</b></span> dirigidas a alumnos de <span style="color:#774c98"><b>licenciatura</b></span> por parte de estudiantes y profesores del Posgrado Conjunto </h4>
 			<div class="row">
     			<div class="col-sm-6">
 				<p style="text-align: justify"> El objetivo es generar un ambiente ameno y de confianza para que los estudiantes de licenciatura se formen un panorama de las matemáticas que trabajan los estudiantes de posgrado en Morelia.</p>
@@ -119,29 +120,29 @@ Horario:</strong> 9:00 a 14:00 horas.<br>
 		<p>
             
 		<span style="color:#01827A;font-weight:bold;font-size:25px">Plenarias</span><br>
-        <span class="TitAct" style="color:#94014D">Problemas inversos. Un vistazo introductorio</span> - Dr. Abdón E. Rivero Choque (<span style="color:grey"><b>IFM</b></span>) <br>
-        <span class="TitAct" style="color:#94014D">Epidemiología matemática </span> - Dr. Osvaldo Osuna Castro (<span style="color:grey"><b>IFM</b></span>) <br>
-        <span class="TitAct" style="color:#94014D">Configuraciones, trenzas y polinomios </span> - Dra. Rita Jiménez Rolland (<span style="color:grey"><b>CCM</b></span>) <br>
-        <span class="TitAct" style="color:#94014D">Apareamientos</span> - Dra. María Luisa Pérez Seguí (<span style="color:grey"><b>FCFM</b></span>) <br>
-        <span class="TitAct" style="color:#94014D">Sobre la paradoja de Banach-Tarski</span> - Dr. Ulises Ariet Ramos García (<span style="color:grey"><b>CCM</b></span>)  <br>
-			<span class="TitAct" style="color:#94014D">Una mirada más a la unicidad de los reales</span> - Dr. Fernando Hernández Hernández (<span style="color:grey"><b>FCFM</b></span>) <br> <br> </p>
+        <span class="TitAct" style="color:#774c98">Problemas inversos. Un vistazo introductorio</span> - Dr. Abdón E. Rivero Choque (<span style="color:grey"><b>IFM</b></span>) <br>
+        <span class="TitAct" style="color:#774c98">Epidemiología matemática </span> - Dr. Osvaldo Osuna Castro (<span style="color:grey"><b>IFM</b></span>) <br>
+        <span class="TitAct" style="color:#774c98">Configuraciones, trenzas y polinomios </span> - Dra. Rita Jiménez Rolland (<span style="color:grey"><b>CCM</b></span>) <br>
+        <span class="TitAct" style="color:#774c98">Apareamientos</span> - Dra. María Luisa Pérez Seguí (<span style="color:grey"><b>FCFM</b></span>) <br>
+        <span class="TitAct" style="color:#774c98">Sobre la paradoja de Banach-Tarski</span> - Dr. Ulises Ariet Ramos García (<span style="color:grey"><b>CCM</b></span>)  <br>
+			<span class="TitAct" style="color:#774c98">Una mirada más a la unicidad de los reales</span> - Dr. Fernando Hernández Hernández (<span style="color:grey"><b>FCFM</b></span>) <br> <br> </p>
     </div>	  
 	 <div class="col-sm-6">
 	  
 		<span style="color:#01827A;font-weight:bold;font-size:20px">Estudiantes</span><br>
-        <span class="TitAct" style="color:#94014D">Los espacios de funciones</span> - Reynaldo Rojas Hernández <br>
-        <span class="TitAct" style="color:#94014D">Acerca de los biconjuntos</span> - Karley Tatiana Cardona Echenique.<br>
-        <span class="TitAct" style="color:#94014D">Ecuaciones Cuasi-homogeneas y sus apliaciones”.</span> - Ruben<br>
-        <span class="TitAct" style="color:#94014D">Teoría de Auslander-Reiten</span> - Enrique Rodriguéz Castillo<br>
-        <span class="TitAct" style="color:#94014D">La hipótesis del continuo y de cómo no volverse loco</span> - Roberto Lara Sarniento<br>
-        <span class="TitAct" style="color:#94014D">Algunas nociones de la Topología Algebraica</span> - Carlos Domínguez<br>
-        <span class="TitAct" style="color:#94014D">La gráfica de Farey</span> - Israel Morales Jimenes.<br>
-        <span class="TitAct" style="color:#94014D">Campos vectoriales y $1$-formas racionales</span> - Julio Cesár Magaña Cáceres<br>
-        <span class="TitAct" style="color:#94014D">Pendiente</span> - José Antonio Corona García<br>
-        <span class="TitAct" style="color:#94014D">El teorema de Pitágoras para manoplas</span> - José Hernández Santiago <br>
-        <span class="TitAct" style="color:#94014D">La conjetura abc</span> - César Días Mijangos<br>
-        <span class="TitAct" style="color:#94014D">El grupo modular de una superficie</span> - Alejandra Trujillo Negrete<br>
-        <span class="TitAct" style="color:#94014D">Bandas de Mobius de papel: una pregunta elemental</span> - Ana Cristina Chávez Cáliz<br>
+        <span class="TitAct" style="color:#774c98">Los espacios de funciones</span> - Reynaldo Rojas Hernández <br>
+        <span class="TitAct" style="color:#774c98">Acerca de los biconjuntos</span> - Karley Tatiana Cardona Echenique.<br>
+        <span class="TitAct" style="color:#774c98">Ecuaciones Cuasi-homogeneas y sus apliaciones”.</span> - Ruben<br>
+        <span class="TitAct" style="color:#774c98">Teoría de Auslander-Reiten</span> - Enrique Rodriguéz Castillo<br>
+        <span class="TitAct" style="color:#774c98">La hipótesis del continuo y de cómo no volverse loco</span> - Roberto Lara Sarniento<br>
+        <span class="TitAct" style="color:#774c98">Algunas nociones de la Topología Algebraica</span> - Carlos Domínguez<br>
+        <span class="TitAct" style="color:#774c98">La gráfica de Farey</span> - Israel Morales Jimenes.<br>
+        <span class="TitAct" style="color:#774c98">Campos vectoriales y $1$-formas racionales</span> - Julio Cesár Magaña Cáceres<br>
+        <span class="TitAct" style="color:#774c98">Pendiente</span> - José Antonio Corona García<br>
+        <span class="TitAct" style="color:#774c98D">El teorema de Pitágoras para manoplas</span> - José Hernández Santiago <br>
+        <span class="TitAct" style="color:#774c98">La conjetura abc</span> - César Días Mijangos<br>
+        <span class="TitAct" style="color:#774c98">El grupo modular de una superficie</span> - Alejandra Trujillo Negrete<br>
+        <span class="TitAct" style="color:#774c98">Bandas de Mobius de papel: una pregunta elemental</span> - Ana Cristina Chávez Cáliz<br>
 			
 
 		</p>
@@ -152,7 +153,7 @@ Horario:</strong> 9:00 a 14:00 horas.<br>
 <!-- Container (Horario Section) -->
 <div id="horario" class="container-fluid text-center ajuste">
   <h2>Horario</h2>
-	<p style="text-align: center"> Haga <span style="color:#94014D"><b>click</b></span> en el nombre para ver el resumen de cada plática.</p>
+	<p style="text-align: center"> Haga <span style="color:#774c98"><b>click</b></span> en el nombre para ver el resumen de cada plática.</p>
     <div class="ce">
 	<table class="sbc tg">
         <tr>
