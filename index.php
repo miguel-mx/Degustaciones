@@ -9,6 +9,7 @@
   <link href="http://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
   <script type="text/x-mathjax-config">
             // <![CDATA[
             MathJax.Hub.Config({ 
@@ -79,15 +80,17 @@
 	<div class="row">
 	    <div class="panel panel-default">
                 <div class="panel-body">
-                    Fechas: 31 de enero, 1 y 2 de febrero 2017<br>
-		    Horario: 9:00 a 14:00 horas<br>
-		    Lugar: Audirorio de la Facultad de Ciencias Físico-Matemáticas Mat. Luis Manuel Rivera Gutierrez UMSNH.<br>
+                    <strong><i class="fa fa-calendar" aria-hidden="true"></i> Fechas:</strong> 31 de enero, 1 y 2 de febrero 2017.<br>
+		    <strong><i class="fa fa-clock-o" aria-hidden="true"></i>
+Horario:</strong> 9:00 a 14:00 horas.<br>
+		    <strong><i class="fa fa-location-arrow" aria-hidden="true"></i>
+ Lugar:</strong> Auditorio de la Facultad de Ciencias Físico-Matemáticas Mat. Luis Manuel Rivera Gutierrez UMSNH.<br>
                 </div>
             </div>
 	</div>
 	<div class="row">
     	<div class="col-sm-8">
-		<h4 style="color: #303030;text-align: justify"> Consite de una <span style="color:#94014D"><b>serie de pláticas de matemáticas</b></span> dirigidas a alumnos de <span style="color:#94014D"><b>licenciatura</b></span> por parte de estudiantes y profesores del Posgrado Conjunto </h4>
+		<h4 style="color: #303030;text-align: justify"> Consiste de una <span style="color:#94014D"><b>serie de pláticas de matemáticas</b></span> dirigidas a alumnos de <span style="color:#94014D"><b>licenciatura</b></span> por parte de estudiantes y profesores del Posgrado Conjunto </h4>
 			<div class="row">
     			<div class="col-sm-6">
 				<p style="text-align: justify"> El objetivo es generar un ambiente ameno y de confianza para que los estudiantes de licenciatura se formen un panorama de las matemáticas que trabajan los estudiantes de posgrado en Morelia.</p>
