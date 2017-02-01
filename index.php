@@ -238,7 +238,7 @@ Horario:</strong> 9:00 a 14:00 horas.<br>
 <!-- Container (Material Section) -->
 <div id="material"  class="container-fluid text-center bg-grey">
   <h2>Resúmenes</h2><br>
-	<p>Haga click <a href="resumenesfondo.pdf">aquí</a> para ver los resúmenes de todas las pláticas</p>
+	<p>Haga click <a href="resumenes.pdf">aquí</a> para ver los resúmenes de todas las pláticas</p>
   </div><br>
 
 <!-- Container (Organizadores Section) -->
