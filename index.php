@@ -154,7 +154,7 @@ Horario:</strong> 9:00 a 14:00 horas.<br>
   <h2>Horario</h2>
 	<p style="text-align: center"> Haga <span style="color:#774c98"><b>click</b></span> en el nombre para ver el resumen de cada plática.</p>
     <div class="ce">
-	<table class="sbc tg">
+	<!--<table class="sbc tg">
         <tr>
             <td class="wh"></td><td class="wh">Martes</td><td class="wh">Miercoles</td><td class="wh">Jueves</td>
         </tr>
@@ -192,7 +192,7 @@ Horario:</strong> 9:00 a 14:00 horas.<br>
         <tr><td class="wh" style="border-top-color: white"></td></tr>
 
 	
-    </table>
+    </table>-->
 	</div>
 </div>
 <div class="ce peq">
