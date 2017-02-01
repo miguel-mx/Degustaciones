@@ -151,49 +151,112 @@ Horario:</strong> 9:00 a 14:00 horas.<br>
 
 <!-- Container (Horario Section) -->
 <div id="horario" class="container-fluid text-center ajuste">
-  <h2>Horario</h2>
-	<p style="text-align: center"> Haga <span style="color:#774c98"><b>click</b></span> en el nombre para ver el resumen de cada plática.</p>
-    <div class="ce">
-	<!--<table class="sbc tg">
-        <tr>
-            <td class="wh"></td><td class="wh">Martes</td><td class="wh">Miercoles</td><td class="wh">Jueves</td>
-        </tr>
-        <tr>
-            <td class="hhh" >9:00 </td><td class="tdp" rowspan="2"><button type="button" class="btn btn-lg plenaria" data-toggle="modal" data-target="#myModalM1">Abdón</button></td><td style="padding:0px"><button type="button" class="btn btn-lg hora" data-toggle="modal" data-target="#myModalX1">Carlos</button></td><td class="tdp" rowspan="2"><button type="button" class="btn btn-lg plenaria" data-toggle="modal" data-target="#myModalJ1">Ariet</button></td>
-        </tr>
-		<tr>
-            <td class="hhh" >9:30 </td><td class="tdp" rowspan="2"><button type="button" class="btn btn-lg plenaria" data-toggle="modal" data-target="#myModalX2"> Rita </button></td></td>
-        </tr>
-        <tr>
-            <td class="hhh" >10:00 </td><td><button type="button" class="btn btn-lg hora" data-toggle="modal" data-target="#myModalM2">Reynaldo</button></td><td><button type="button" class="btn btn-lg hora" data-toggle="modal" data-target="#myModalJ2">César</button></td>
-        </tr>
-        <tr>
-            <td class="hhh" >10:30 </td><td class="wh" colspan="3">Café</td>
-        </tr>  
-        <tr>
-            <td class="hhh" >10:50 </td><td><button type="button" class="btn btn-lg hora" data-toggle="modal" data-target="#myModalM3">Karley</button></td><td><button type="button" class="btn btn-lg hora" data-toggle="modal" data-target="#myModalX3">Israel</button></td><td><button type="button" class="btn btn-lg hora" data-toggle="modal" data-target="#myModalJ3">Alejandra</button></td>
-        </tr>
-        <tr>
-            <td class="hhh" >11:20 </td><td><button type="button" class="btn btn-lg hora" data-toggle="modal" data-target="#myModalM4">Rubén</button></td><td><button type="button" class="btn btn-lg hora" data-toggle="modal" data-target="#myModalX4">Julio</button></td><td><button type="button" class="btn btn-lg hora" data-toggle="modal" data-target="#myModalJ4">Ana</button></td>
-        </tr> 
-        <tr>
-            <td class="hhh" >11:50 </td><td><button type="button" class="btn btn-lg hora" data-toggle="modal" data-target="#myModalM5">Enrique</button></td><td><button type="button" class="btn btn-lg hora" data-toggle="modal" data-target="#myModalX5">Toño</button></td><td class="tdp" rowspan="2"><button type="button" class="btn btn-lg plenaria" data-toggle="modal" data-target="#myModalJ5">Fernando</button></td>
-        </tr>
-    
-        <tr>
-            <td class="hhh" >12:20 </td><td class="wh" colspan="2">Descanso</td>
-        </tr>
-        <tr>
-            <td class="hhh" >12:30 </td><td><button type="button" class="btn btn-lg hora" data-toggle="modal" data-target="#myModalM6">Rob</button></td><td><button type="button" class="btn btn-lg hora" data-toggle="modal" data-target="#myModalX6">José</button></td><td class="wh" style="border-bottom-color: white"></td>
-        </tr>
-        <tr>
-            <td  class="hhh" rowspan="2">1:00 </td><td class="tdp"  rowspan="2"><button type="button" class="btn btn-lg plenaria" data-toggle="modal" data-target="#myModalM7">Osvaldo</button></td><td class="tdp" rowspan="2"><button type="button" class="btn btn-lg plenaria" data-toggle="modal" data-target="#myModalX7">Malú</button></td><td class="wh" style="border-bottom-color: white; border-top-color: white"></td>
-        </tr>
-        <tr><td class="wh" style="border-top-color: white"></td></tr>
+    <div class="container">
+        <h2>Horario</h2>
+        <!--<p style="text-align: center"> Haga <span style="color:#774c98"><b>click</b></span> en el nombre para ver el resumen de cada plática.</p>-->
 
-	
-    </table>-->
-	</div>
+        <!--<table class="sbc tg">
+            <tr>
+                <td class="wh"></td><td class="wh">Martes</td><td class="wh">Miercoles</td><td class="wh">Jueves</td>
+            </tr>
+            <tr>
+                <td class="hhh" >9:00 </td><td class="tdp" rowspan="2"><button type="button" class="btn btn-lg plenaria" data-toggle="modal" data-target="#myModalM1">Abdón</button></td><td style="padding:0px"><button type="button" class="btn btn-lg hora" data-toggle="modal" data-target="#myModalX1">Carlos</button></td><td class="tdp" rowspan="2"><button type="button" class="btn btn-lg plenaria" data-toggle="modal" data-target="#myModalJ1">Ariet</button></td>
+            </tr>
+            <tr>
+                <td class="hhh" >9:30 </td><td class="tdp" rowspan="2"><button type="button" class="btn btn-lg plenaria" data-toggle="modal" data-target="#myModalX2"> Rita </button></td></td>
+            </tr>
+            <tr>
+                <td class="hhh" >10:00 </td><td><button type="button" class="btn btn-lg hora" data-toggle="modal" data-target="#myModalM2">Reynaldo</button></td><td><button type="button" class="btn btn-lg hora" data-toggle="modal" data-target="#myModalJ2">César</button></td>
+            </tr>
+            <tr>
+                <td class="hhh" >10:30 </td><td class="wh" colspan="3">Café</td>
+            </tr>
+            <tr>
+                <td class="hhh" >10:50 </td><td><button type="button" class="btn btn-lg hora" data-toggle="modal" data-target="#myModalM3">Karley</button></td><td><button type="button" class="btn btn-lg hora" data-toggle="modal" data-target="#myModalX3">Israel</button></td><td><button type="button" class="btn btn-lg hora" data-toggle="modal" data-target="#myModalJ3">Alejandra</button></td>
+            </tr>
+            <tr>
+                <td class="hhh" >11:20 </td><td><button type="button" class="btn btn-lg hora" data-toggle="modal" data-target="#myModalM4">Rubén</button></td><td><button type="button" class="btn btn-lg hora" data-toggle="modal" data-target="#myModalX4">Julio</button></td><td><button type="button" class="btn btn-lg hora" data-toggle="modal" data-target="#myModalJ4">Ana</button></td>
+            </tr>
+            <tr>
+                <td class="hhh" >11:50 </td><td><button type="button" class="btn btn-lg hora" data-toggle="modal" data-target="#myModalM5">Enrique</button></td><td><button type="button" class="btn btn-lg hora" data-toggle="modal" data-target="#myModalX5">Toño</button></td><td class="tdp" rowspan="2"><button type="button" class="btn btn-lg plenaria" data-toggle="modal" data-target="#myModalJ5">Fernando</button></td>
+            </tr>
+
+            <tr>
+                <td class="hhh" >12:20 </td><td class="wh" colspan="2">Descanso</td>
+            </tr>
+            <tr>
+                <td class="hhh" >12:30 </td><td><button type="button" class="btn btn-lg hora" data-toggle="modal" data-target="#myModalM6">Rob</button></td><td><button type="button" class="btn btn-lg hora" data-toggle="modal" data-target="#myModalX6">José</button></td><td class="wh" style="border-bottom-color: white"></td>
+            </tr>
+            <tr>
+                <td  class="hhh" rowspan="2">1:00 </td><td class="tdp"  rowspan="2"><button type="button" class="btn btn-lg plenaria" data-toggle="modal" data-target="#myModalM7">Osvaldo</button></td><td class="tdp" rowspan="2"><button type="button" class="btn btn-lg plenaria" data-toggle="modal" data-target="#myModalX7">Malú</button></td><td class="wh" style="border-bottom-color: white; border-top-color: white"></td>
+            </tr>
+            <tr><td class="wh" style="border-top-color: white"></td></tr>
+
+
+        </table>-->
+        <br>
+        <table class="table table-condensed table-striped">
+            <tr>
+                <td></td><td>Martes 31</td><td>Miércoles 1</td><td>Jueves 2</td>
+            </tr>
+            <tr>
+                <td>9:00</td><td>Elmar*</td><td>Miguel*</td><td>Armando*</td>
+            </tr>
+            <tr>
+                <td>10:00</td><td>Arturo</td><td>Gerardo</td><td>Manuel</td>
+            </tr>
+            <tr>
+                <td>10:30</td><td colspan="3">Cafe</td>
+            </tr>
+            <tr>
+                <td>10:50</td><td>René</td><td>Luis Jorge</td><td rowspan="2">Ferrán*</td>
+            </tr>
+            <tr>
+                <td>11:20</td><td>César</td><td>Yesenia</td>
+            </tr>
+            <tr>
+                <td>11:50</td><td>José</td><td>Estefanía</td><td rowspan="2">Noé**</td>
+            </tr>
+            <tr>
+                <td>12:20</td><td colspan="2">Descanso</td>
+            </tr>
+            <tr>
+                <td>12:30</td><td>Héctor</td><td>Johanna</td>
+            </tr>
+            <tr>
+                <td>13:00</td><td>Jorge*</td><td>Ahtziri*</td>
+            </tr>
+
+        </table>
+        <p class="text-left">* Profesor invitado.</p>
+        <p class="text-left">** Bienvenida del Posgrado Conjunto en Ciencias Matemáticas UMSNH-UNAM.</p>
+        <h1></h1>
+        <table>
+            <tr><td>PONENTE</td><td>TÍTULO</td></tr>
+            <tr><td colspan="2"><strong>Martes 31</strong></td></tr>
+            <tr><td>Dr. Elmar Wagner *</td><td>Un principio fundamental de la física: fuerza = curvatura</td></tr>
+            <tr><td>Arturo Antonio Martínez</td><td>El axioma de elección en la vida cotidiana</td></tr>
+            <tr><td>René Rodríguez</td><td></td></tr>
+            <tr><td>César Corral</td><td>Extendiendo el universo matemático</td></tr>
+            <tr><td>José Hernández</td><td>Sobre el análogo en teoría de grupos de un célebre teorema de Kuratowski</td></tr>
+            <tr><td>Héctor Barriga</td><td>¡Odio demostrar!</td></tr>
+            <tr><td>Jorge Luis López</td><td>Curvas fantásticas... y dónde encontrarlas.</td></tr>
+            <tr><td colspan="2"><strong>Miércoles 1</strong></td></tr>
+            <tr><td>Miguel Raggi*</td><td>Juegos Combinatorios</td></tr>
+            <tr><td>Gerardo Maldonado</td><td>Otras formas de computar</td></tr>
+            <tr><td>Luis Jorge Sánchez</td><td>¿Es posible encontrar inspiración en un árbol de navidad?</td></tr>
+            <tr><td>Yesenia Villicaña</td><td>¿Cuántas 3-variedades con volumen finito hay?</td></tr>
+            <tr><td>Estefanía González</td><td>Manteles matemáticos</td></tr>
+            <tr><td>Johanna González</td><td>Números enteros y funciones polinomiales en la esfera de Riemann</td></tr>
+            <tr><td>Ahtziri González</td><td>Introducción de los espacios de parámetros</td></tr>
+            <tr><td colspan="2"><strong>Jueves 2</strong></td></tr>
+            <tr><td>Armando Sepúlveda*</td><td>El mistisimo y esoterismo de la matemática griega</td></tr>
+            <tr><td>Manuel Espinosa</td><td>Polinomios y residuos</td></tr>
+            <tr><td>Ferrán Valdez*</td><td>Superficies hechas de polígonos</td></tr>
+            <tr><td>Noé Bárcenas**</td><td>La distancia y la noción de cuasiisometría</td></tr>
+        </table>
+
+    </div>
 </div>
 <div class="ce peq">
         	<table class="tp">
